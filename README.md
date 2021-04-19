@@ -1,4 +1,4 @@
-### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Marcelo Keller
+### Hello there! My name is Marcelo Keller, nice to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **kellervmarcelo/kellervmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Besides working as a dev, I also enjoy learning about stuff related to adjacent 
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> 
@@ -36,9 +36,9 @@ Besides working as a dev, I also enjoy learning about stuff related to adjacent 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<kellervmarcelo>&hide=java,html,css&theme=dark)](https://github.com/kellervmarcelo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellervmarcelo&hide=java,html,css&theme=dark)](https://github.com/kellervmarcelo/github-readme-stats)
 
-[![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=<kellervmarcelo>&theme=dark)](https://github.com/kellervmarcelo/github-readme-stats)
+[![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellervmarcelo&theme=dark)](https://github.com/kellervmarcelo/github-readme-stats)
 
 
 
