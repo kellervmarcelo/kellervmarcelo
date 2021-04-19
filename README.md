@@ -1,4 +1,4 @@
-### Hello there! My name is Marcelo Keller, nice to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello there! My name is Marcelo Keller, nice to have you here! This is where I share my studies and some of my own work <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **kellervmarcelo/kellervmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
