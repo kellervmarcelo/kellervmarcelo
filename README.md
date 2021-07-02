@@ -5,13 +5,11 @@
 
 Here are some ideas to get you started:
 -->
----
+***
 - 🌱 I’m currently learning Nuxt.js (😍)
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about all things related to JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kellervmarcelo/) and you can find some of my work with UI/UX on [Behance](https://www.behance.net/marcelomkv)
-- 😄 Pronouns: He/his 
-
 ---
 
 # Bio
