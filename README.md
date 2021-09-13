@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 ***
 - 🌱 I’m currently learning Nuxt.js (😍)
-- 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about all things related to JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kellervmarcelo/) and you can find some of my work with UI/UX on [Behance](https://www.behance.net/marcelomkv)
 ---
@@ -20,15 +19,15 @@ Besides working as a dev, I also enjoy learning about stuff related to adjacent 
 ---
 
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/gitlab-1.svg" alt="Gitlab Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin.svg" alt="Kotlin Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" align="left"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab-1.svg" alt="Gitlab Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin.svg" alt="Kotlin Logo" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50" align="left"/> 
 
 ---
 
