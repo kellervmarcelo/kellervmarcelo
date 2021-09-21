@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Nuxt.js (😍)
 - 💬 Ask me about all things related to JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kellervmarcelo/) and you can find some of my work with UI/UX on [Behance](https://www.behance.net/marcelomkv)
+- 📰 Also I blog about Vue.js @ https://marcelokv.hashnode.dev/
 ---
 
 # Bio
